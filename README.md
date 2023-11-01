@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 프로젝트 링크
+https://prfl.link/@dimondkin
