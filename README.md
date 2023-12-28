@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br></br>
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungseok15&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
 ### 프로젝트 링크
 <a href="https://prfl.link/@dimondkin"/>클릭</a>
+</div>
