@@ -8,7 +8,7 @@ My name is Kim Young Seok. I majored in biomedical engineering. Now I'm studying
 * Thoughtful
 * Curious
 
-### On Free Time I do..
+### On free time I do..
 * League of Legends
 * Drum
 * Basketball
