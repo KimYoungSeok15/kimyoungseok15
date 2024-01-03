@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
 ## 😊Hello!
-My name is Kim Young Seok. I majored in biomedical engineering. Now I'm studying cloud based software development.
+My name is Kim Young Seok. I majored in biomedical engineering. Now I'm studying cloud based software development. My MBTI is INTP.
 
 ### I am..
 * Positive
