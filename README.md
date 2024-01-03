@@ -1,6 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
-### 🔧 기술스택
+## 😊Hello!
+My name is Kim Young Seok. I majored in biomedical engineering. Now I'm studying cloud based software development.
+
+### I am..
+* Positive
+* Thoughtful
+* Curious
+
+### On Free Time I do..
+* League of Legends
+* Drum
+* Basketball
+
+## 🔧 기술스택
 
 <div>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -30,11 +43,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📘Education
+|기간|활동 내용|기관|
+|-------|--------------|-----|
+|`2015-03` ~ `2023-02`|바이오의공학부|고려대학교|
+|`2023-01` ~ `2023-12`|삼성청년SW아카데미|삼성전자|
+|`2024-01` ~ |프로디지털아카데미|신한투자증권|
+
+
 <br></br>
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungseok15&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
-### 🔗 프로젝트 링크
+## 🔗 Links
 
-<a href="https://prfl.link/@dimondkin">클릭</a>
+<a href="https://prfl.link/@dimondkin">👉 Click</a>
 
 </div>
