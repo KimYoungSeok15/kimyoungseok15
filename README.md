@@ -61,4 +61,12 @@ Here are some ideas to get you started:
 
 <a href="https://prfl.link/@dimondkin">👉 Click</a>
 
+### 인스턴스 유형에 따른 성능 비교
+| 유형 | 속도 |
+|-------|-------|
+| `T (t4g.medium)` | `2.20709sec` |
+| `M (m7g.medium)` | `2.55987sec` |
+| `C (c6g.medium)` | `2.98004sec` |
+| `R (r7g.medium)` | `2.23438sec` |
+
 </div>
