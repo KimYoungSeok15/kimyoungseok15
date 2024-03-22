@@ -57,44 +57,7 @@ Here are some ideas to get you started:
 <br></br>
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoungseok15&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 
-## 🔗 Links
+## 🔗 Project Links
 
 <a href="https://prfl.link/@dimondkin">👉 Click</a>
 
-## :렌즈가_오른쪽_위에_있는_확대경: 인스턴스 유형에 따른 성능 비교
-### :두꺼운_확인_표시: github 크롤링
-
-인스턴스 크기 : ___medium___
-| 유형 | 속도 |
-|-------|-------|
-| `T (t4g.medium)` | `2.20709sec` |
-| `M (m7g.medium)` | `2.55987sec` |
-| `C (c6g.medium)` | `2.98004sec` |
-| `R (r7g.medium)` | `2.23438sec` |
-
-인스턴스 크기 : ___large___
-| 유형 | 속도 |
-|-------|-------|
-| `T (t4g.large)` | `3.03277sec` |
-| `M (m7g.large)` | `1.57799sec` |
-| `C (c6g.large)` | `3.08457sec` |
-| `R (r7g.large)` | `4.92406sec` |
-- - -
-### :두꺼운_확인_표시: 반복문 5e8번 돌리기
-
-인스턴스 크기 : ___medium___
-| 유형 | 속도 |
-|-------|-------|
-| `T (t4g.medium)` | `64.02183sec` |
-| `M (m7g.medium)` | `45.31015sec` |
-| `C (c6g.medium)` | `69.90231sec` |
-| `R (r7g.medium)` | `45.56339sec` |
-
-인스턴스 크기 : ___large___
-| 유형 | 속도 |
-|-------|-------|
-| `T (t4g.large)` | `62.16461sec` |
-| `M (m7g.large)` | `46.27828sec` |
-| `C (c6g.large)` | `62.95662sec` |
-| `R (r7g.large)` | `45.62199sec` |
-</div>
