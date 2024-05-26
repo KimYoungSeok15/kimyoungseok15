@@ -61,3 +61,7 @@ Here are some ideas to get you started:
 
 <a href="https://prfl.link/@dimondkin">👉 Click</a>
 
+<div>
+  <a href="https://solved.ac/dimondkin">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dimondkin" alt="Solved.ac 프로필"/></a>
+</div><br>
