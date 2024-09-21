@@ -16,7 +16,7 @@
 * Drum
 * Basketball
 
-## 🔧 기술스택
+## 🔧 Tech Stack
 
 ### Language
 <div>
