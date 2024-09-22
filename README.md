@@ -87,7 +87,7 @@
 |---------------|----------|----------|------|--------|
 | **빌려방**    | 24.6     | 4주      | React, 카카오맵 API | [링크](https://github.com/PDA-BillyBang) |
 | **키워드림**  | 24.3     | 4주      | React, MariaDB | [링크](https://github.com/Keywordream-PDA) |
-| **미니맥북**  | 24.2     | 2주      | React, MongoDB | [링크](https://github.com/mini-macbook/PDA-mini-macbook) |
+| **미니맥북**  | 24.2     | 2주      | React, MongoDB, Express.js | [링크](https://github.com/mini-macbook/PDA-mini-macbook) |
 | **Stellargram** | 23.10   | 7주      | Jetpack Compose | [링크](https://github.com/KimYoungSeok15/Stellargram) |
 | **Mini Nation** | 23.8    | 7주      | React | [링크](https://github.com/KimYoungSeok15/MiniNation) |
 | **Sketch Me** | 23.7     | 7주      | React | [링크](https://github.com/KimYoungSeok15/SketchMe) |
